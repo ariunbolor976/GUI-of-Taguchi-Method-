@@ -1,1 +1,1 @@
-# GUI-of-Taguchi-Method-
+# TaguchiMethod
